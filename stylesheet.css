@@ -1,0 +1,95 @@
+#main{
+    width:1000px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #B4CDCD;
+    margin-top: 0px;
+}
+div #cover{
+    width: 1000px;
+    height: 180px;
+    background-color:  #404040;
+    overflow: hidden;
+  
+}
+#propic{
+    float: left;
+    margin-right: 50px;
+}
+#pro{
+    border-radius: 150px;
+}
+#name{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 250%;
+    margin: 0px;
+    margin-top: 40px;
+   
+}
+#info{
+     text-align: center;
+}
+/*------------aboutme block-------------*/
+#aboutme{
+    height: 200px;
+    width: inherit;
+    background-color:;
+    text-align: left;
+}
+.base{
+    font-family: cursive;
+    font-size: 130%;
+    font-weight: bold;
+    margin-left: ;
+   
+    background-color:#404040 ;
+    color:#CFCFCF;;
+    float: left;
+    width: 200px;
+    height: inherit;
+    
+}
+.base p{
+    padding: 7px;
+    text-align: center;
+}
+.def{
+    padding-top: 20px;
+    text-align: left;
+    font-size: 120%;
+}
+/*------------------obj---------------*/
+#obj{
+    height:80px;
+    width: inherit;
+    background-color:;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    
+    
+}
+/*-----------------qualify-----------*/
+#qulifi{
+      height: 200px;
+    width: inherit;
+    background-color: ;
+    text-align: left;
+}
+/*---------------skills-------------*/
+#skills{
+      height: 200px;
+    width: inherit;
+    background-color: ;
+    text-align: left;
+        font-style: italic;
+    font-weight: bold;
+}
+/*---------------footer-------------*/
+#footer{
+      text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1px;
+}
